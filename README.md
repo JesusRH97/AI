@@ -6,4 +6,3 @@ The first one is the tic-tac-toe game which is based on the Minimax algorithm (y
 
 The second one is a CNN that uses the dataset of clothes from Keras. Try it and you will realize it is quite accurate at predicting the images.
 
-![Prius] (https://www.gihub.com/JesusRH97/Bachelor-thesis/master/prius.png)
